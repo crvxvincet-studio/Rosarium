@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rosario-cruxvincet-app';
+const CACHE_NAME = 'rosario-cruxvincet-app-v2';
 const AUDIO_CACHE_NAME = 'rosario-cruxvincet-audio-vault';
 const XOR_KEY = new Uint8Array([0x43, 0x52, 0x56, 0x58, 0x56, 0x49, 0x4E, 0x43, 0x45, 0x54, 0x31, 0x39, 0x35, 0x38, 0x4D, 0x52]);
 
@@ -9,8 +9,10 @@ const CORE_ASSETS = [
   './README.md',
   './LICENSE.md',
   './data/cartucho-rosario-la.json',
-  './assets/icons/favicon.svg',
   './assets/icons/apple-touch-icon.png',
+  './assets/icons/icon-192.png',
+  './assets/icons/icon-512.png',
+  './assets/icons/icon-1024.png',
   './assets/img/portada-sanctum-rosarium.jpg',
   './assets/img/boton-entrar-letras.jpg',
   './assets/img/crucifijo-cristo.jpg',
