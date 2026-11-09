@@ -1,0 +1,24 @@
+{
+  "name": "Sanctum Rosarium · Rosario con CruxVincet",
+  "short_name": "Sanctum Rosarium",
+  "description": "Santo Rosario Tradicional en Latín con Folio de Pergamino Iluminado, Sincronía Acústica Palabra por Palabra (Varón y Mujer) y Funcionamiento 100% Sin Internet.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#360506",
+  "theme_color": "#3a0506",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
